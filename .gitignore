@@ -2,4 +2,7 @@ MachineLearningCVE/
 mvlearn/
 .ipynb_checkpoints
 CIC_IDS_2017_cleaned_without_sample.csv
+CIC_IDS_2017_cleaned_combined.csv
+CIC_IDS_2017_ready.csv
+*.csv
 __pycache__/
